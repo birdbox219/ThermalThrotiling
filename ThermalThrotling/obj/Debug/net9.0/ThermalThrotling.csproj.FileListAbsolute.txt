@@ -1,0 +1,14 @@
+E:\C#\testVScode\ThermalThrotling\bin\Debug\net9.0\ThermalThrotling.exe
+E:\C#\testVScode\ThermalThrotling\bin\Debug\net9.0\ThermalThrotling.deps.json
+E:\C#\testVScode\ThermalThrotling\bin\Debug\net9.0\ThermalThrotling.runtimeconfig.json
+E:\C#\testVScode\ThermalThrotling\bin\Debug\net9.0\ThermalThrotling.dll
+E:\C#\testVScode\ThermalThrotling\bin\Debug\net9.0\ThermalThrotling.pdb
+E:\C#\testVScode\ThermalThrotling\obj\Debug\net9.0\ThermalThrotling.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\testVScode\ThermalThrotling\obj\Debug\net9.0\ThermalThrotling.AssemblyInfoInputs.cache
+E:\C#\testVScode\ThermalThrotling\obj\Debug\net9.0\ThermalThrotling.AssemblyInfo.cs
+E:\C#\testVScode\ThermalThrotling\obj\Debug\net9.0\ThermalThrotling.csproj.CoreCompileInputs.cache
+E:\C#\testVScode\ThermalThrotling\obj\Debug\net9.0\ThermalThrotling.dll
+E:\C#\testVScode\ThermalThrotling\obj\Debug\net9.0\refint\ThermalThrotling.dll
+E:\C#\testVScode\ThermalThrotling\obj\Debug\net9.0\ThermalThrotling.pdb
+E:\C#\testVScode\ThermalThrotling\obj\Debug\net9.0\ThermalThrotling.genruntimeconfig.cache
+E:\C#\testVScode\ThermalThrotling\obj\Debug\net9.0\ref\ThermalThrotling.dll
