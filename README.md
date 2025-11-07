@@ -20,7 +20,7 @@ A classic console-based space shooter game built in C#.
 
 1.  Clone the repository:
     ```sh
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/birdbox219/ThermalThrotiling
     ```
 2.  Navigate to the project directory:
     ```sh
